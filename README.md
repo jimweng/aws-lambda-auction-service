@@ -1,6 +1,4 @@
-# Codingly.io: Base Serverless Framework Template
-
-https://codingly.io
+# aws-lambda-auction-service
 
 ## What's included
 * Folder structure used consistently across our projects.
